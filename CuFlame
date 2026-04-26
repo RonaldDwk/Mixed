@@ -13,12 +13,8 @@ The Application collects information when you download and use it. This informat
 
 The Application collects precise and approximate location information from your mobile device. This location data is collected only while the app is in use to enable features such as 'People Nearby' and 'Hotgame' matchmaking. We use this data to:
 
-Matchmaking: To help you discover and connect with other users in your immediate geographical area.
-Personalized Content: To show you relevant profiles and location-based recommendations.
-Analytics: Aggregated and anonymized data helps us improve the Application's performance.
-
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
-
+*   Matchmaking: To help you discover and connect with other users in your immediate geographical area.
+*   Personalized Content: To show you relevant profiles and location-based recommendations.
 *   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
 *   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
 *   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
