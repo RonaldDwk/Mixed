@@ -1,10 +1,11 @@
 Disclaimer
 
-1. Limitation of Transactional Liability
-We are not responsible for any purchases, payments, returns, package shipments, or order fulfillment transactions made after you exit this application and enter third-party affiliate store platforms. Any purchasing issues must be addressed directly with the support desk of the specific marketplace platform where the order was submitted (e.g., Temu Customer Service).
+1. "As Is" and "As Available" Basis: The Application is provided strictly on an "as is" basis.No warranties of any kind are offered by the developer. This includes express, implied, statutory, or merchantability warranties. We do not guarantee uninterrupted or error-free app performance.
 
-2. No Data Collection and Privacy Caching
-Because this platform functions as a referral catalog framework, we do not prompt for login access credentials, store user profiles, or collect financial account information. Your device data is isolated safely within standard device system sandboxes.
+2. File Loss and Data Corruption Risk: The Application performs local and cloud file management operations. File actions include moving, renaming, optimizing, and deleting data. You accept full responsibility for all performed file operations. The developer is not responsible for any lost files. The developer is not responsible for any corrupted data. You are explicitly advised to maintain regular independent backups.
 
-3. "As-Is" Display Presentation Warranty
-All catalog content entries are pushed to your screen matching remote inventory streams "as-is" without hidden guarantees or express warranties regarding external site functionality or item quality.
+3. Third-Party Services and APIs: The Application integrates with Google Drive, OneDrive, and Dropbox. These connections rely entirely on external third-party APIs. We are not responsible for third-party service interruptions. We are not liable for account suspensions on those platforms. We are not responsible for data loss within cloud accounts.
+
+4. Hardware and Performance Impact: Features like storage analysis and optimization consume system resources. The developer is not liable for device overheating or slowdowns. The developer is not liable for battery drain or hardware degradation.
+
+5. Limitation of Liability: In no event shall the developer be liable for damages. This includes direct, indirect, incidental, or consequential financial losses. This covers business interruptions resulting from using the software.Your sole remedy for dissatisfaction is to stop using the app.
