@@ -1,11 +1,11 @@
 Disclaimer
 
-1. "As Is" and "As Available" Basis: The Application is provided strictly on an "as is" basis. No warranties of any kind are offered by the developer. This includes express, implied, statutory, or merchantability warranties. We do not guarantee uninterrupted or error-free app performance.
+"As Is" and "As Available" Basis: The Application is provided strictly on an "as is" basis. No warranties of any kind are offered by the developer. This includes express, implied, statutory, or merchantability warranties. We do not guarantee uninterrupted or error-free app performance.
 
-2. File Loss and Data Corruption Risk: The Application performs local and cloud file management operations. File actions include moving, renaming, optimizing, and deleting data. You accept full responsibility for all performed file operations. The developer is not responsible for any lost files. The developer is not responsible for any corrupted data. You are explicitly advised to maintain regular independent backups.
+File Loss and Data Corruption Risk: The Application performs local and cloud file management operations. File actions include moving, renaming, optimizing, and deleting data. You accept full responsibility for all performed file operations. The developer is not responsible for any lost files. The developer is not responsible for any corrupted data. You are explicitly advised to maintain regular independent backups.
 
-3. Third-Party Services and APIs: The Application integrates with Google Drive, OneDrive, and Dropbox. These connections rely entirely on external third-party APIs. We are not responsible for third-party service interruptions. We are not liable for account suspensions on those platforms. We are not responsible for data loss within cloud accounts.
+Third-Party Services and APIs: The Application integrates with Google Drive, OneDrive, and Dropbox. These connections rely entirely on external third-party APIs. We are not responsible for third-party service interruptions. We are not liable for account suspensions on those platforms. We are not responsible for data loss within cloud accounts.
 
-4. Hardware and Performance Impact: Features like storage analysis and optimization consume system resources. The developer is not liable for device overheating or slowdowns. The developer is not liable for battery drain or hardware degradation.
+Hardware and Performance Impact: Features like storage analysis and optimization consume system resources. The developer is not liable for device overheating or slowdowns. The developer is not liable for battery drain or hardware degradation.
 
-5. Limitation of Liability: In no event shall the developer be liable for damages. This includes direct, indirect, incidental, or consequential financial losses. This covers business interruptions resulting from using the software.Your sole remedy for dissatisfaction is to stop using the app.
+Limitation of Liability: In no event shall the developer be liable for damages. This includes direct, indirect, incidental, or consequential financial losses. This covers business interruptions resulting from using the software.Your sole remedy for dissatisfaction is to stop using the app.
